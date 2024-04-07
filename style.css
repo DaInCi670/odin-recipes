@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  background-color: antiquewhite;
+}
+
+.odin-imgs {
+  width: 800px;
+  height: auto;
+}
+
+.odin-header {
+  color: rgb(212, 145, 57);
+  font-size: 46px;
+}
+
+.odin-recipe-list {
+  color: rgb(212, 145, 57);
+}
+
+.odin-recipe {
+  color: rgb(240, 135, 16);
+  font-size: 20px;
+}
