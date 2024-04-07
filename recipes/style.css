@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  background-color: antiquewhite;
+}
+
+img {
+  width: 700px;
+  height: auto;
+}
+
+.recipe-header {
+  color: rgb(212, 145, 57);
+  font-size: 46px;
+}
+
+.recipe-overview {
+  color: rgb(212, 145, 57);
+}
+
+.recipe-ingredients {
+  color: rgb(212, 145, 57);
+}
+
+.recipe-steps {
+  color: rgb(212, 145, 57);
+}
